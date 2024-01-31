@@ -3,7 +3,6 @@ package com.generation.farmacia.model;
 import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.generation.farmacia.model.Produto;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
