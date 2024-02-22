@@ -1,8 +1,7 @@
 # Projeto ReVende
-<center>![Logo da ReVende](src/assets/logoRevende.svg)<center>
+![Logo da ReVende](src/assets/logoRevende.svg)
 
 ## Visão Geral
-
 Este projeto é um E-commerce de produtos recicláveis, baseado no Objetivo de Desenvolvimento Sustentável (ODS) da ONU número 12 - Consumo e Produção Sustentáveis. <br></br>
 Nosso objetivo é criar uma plataforma que facilite a conexão entre pessoas que desejam descartar ou vender materiais recicláveis e pessoas interessadas em comprá-los.
 
