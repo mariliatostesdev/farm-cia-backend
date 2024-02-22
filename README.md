@@ -1,5 +1,7 @@
 # Projeto ReVende
-![Logo da ReVende](src/assets/logoRevende.svg)
+<p align="center">
+  <img src="./src/assets/logoRevende.svg" width="60%" />
+</p>
 
 ## Visão Geral
 Este projeto é um E-commerce de produtos recicláveis, baseado no Objetivo de Desenvolvimento Sustentável (ODS) da ONU número 12 - Consumo e Produção Sustentáveis. <br></br>
