@@ -1,5 +1,5 @@
 # Projeto ReVende
-![Logo da ReVende](src/assets/logo-revende.png)
+![Logo da ReVende](src/assets/logo-revende.svg)
 
 ## Visão Geral
 
